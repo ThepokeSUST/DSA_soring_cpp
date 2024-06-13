@@ -16,7 +16,7 @@ void bubble_sort(vector<int> &vec,int n){
 
         }
         if(count==n-i-1){
-            cout<<"ok\n";
+          //  cout<<"ok\n";
             break;
         }
     }
